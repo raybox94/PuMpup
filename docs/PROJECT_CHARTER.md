@@ -29,14 +29,14 @@ The purpose is to create Quizz Application using Php as backend which helps peop
 
 ### Benefits[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#benefits)
 
-Help to learn all 49 processes in each knowledge areas and there input,tools and techniques.
+Help to learn all 49 processes in each knowledge areas and there input, tools and techniques.
 
 ### User Roles[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#user-roles)
 
 This application is mostly used by students.
 
 1. Administrator - Rayaan Ahmed
-2. Project Managet - Ankit Prakash
+2. Project Manager - Ankit Prakash
 3. Sponsor - Mushafiq Fakki
 4. Team Member - Sai Varun Reddy Anugu
 
