@@ -27,7 +27,7 @@ Dr. Denise Case
 
 ## Project Charter Page:
 
-[https://github.com/raybox94/PuMpup](https://github.com/raybox94/PuMpup)
+[https://github.com/raybox94/PuMpup/blob/master/docs/PROJECT_CHARTER.md](https://github.com/raybox94/PuMpup/blob/master/docs/PROJECT_CHARTER.md)
 
 ## How we will work together as team:
 
