@@ -51,5 +51,9 @@ Project charter gives a detailed understanding on the Project Team,Goals,Resourc
 ## Team Signature:
 
 Rayaan Ahmed
+
 Mushafiq Fakki
+
 Ankit Prakash
+
+Sai Varun
