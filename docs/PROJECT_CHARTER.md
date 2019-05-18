@@ -25,7 +25,7 @@ Mentors include:
 
 ### Project Purpose[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#project-purpose)
 
-The purpose is to create Quizz Application usinng Php as backend which helps people to understand more about Project Management and its Process.
+The purpose is to create Quizz Application using Php as backend which helps people to understand more about Project Management and its Process.
 
 ### Benefits[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#benefits)
 
