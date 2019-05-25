@@ -78,6 +78,7 @@ Project exclusion are those things that are outside of project boundries.
 
 - Provide a link to grant chart
 - [JIRA Link](https://raybox94.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PQ&view=planning&selectedIssue=PQ-5&epics=visible)
+- [Sprint Backlog link](https://raybox94.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PQ)
 
 ### Project cost management plan
 
