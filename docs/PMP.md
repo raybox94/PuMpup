@@ -72,12 +72,12 @@ Project exclusion are those things that are outside of project boundries.
 
 #### Work Breakdown Structure(WBS)
 
-[JIRA Link](https://raybox94.atlassian.net/browse/PQ-1?filter=10000)
+[JIRA Link](https://raybox94.atlassian.net/issues/?filter=10000&atlOrigin=eyJpIjoiNGZkNjJhYjAyMmFjNDhhNjgwNzhmZWE1MDJiNjlhYjUiLCJwIjoiaiJ9)
 
 ### Project schedule management plan
 
 - Provide a link to grant chart
-- [JIRA Link](https://raybox94.atlassian.net/browse/PQ-1?filter=10000)
+- [JIRA Link](https://raybox94.atlassian.net/issues/?filter=10000&atlOrigin=eyJpIjoiNGZkNjJhYjAyMmFjNDhhNjgwNzhmZWE1MDJiNjlhYjUiLCJwIjoiaiJ9)
 
 ### Project cost management plan
 
