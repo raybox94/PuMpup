@@ -50,7 +50,7 @@ By voting we came to  an conclusion of using slack for all the team meatings. On
 ## Roles:
 
 1. Administrator - Rayaan Ahmed
-2. Project Managet - Ankit Prakash
+2. Project Manager - Ankit Prakash
 3. Sponsor - Mushafiq Fakki
 4. Team Member - Sai Varun Reddy Anugu
 
