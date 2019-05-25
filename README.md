@@ -29,6 +29,20 @@ Dr. Denise Case
 
 [https://github.com/raybox94/PuMpup/blob/master/docs/PROJECT_CHARTER.md](https://github.com/raybox94/PuMpup/blob/master/docs/PROJECT_CHARTER.md)
 
+## Project Management Plan (PMP) Page:
+
+[https://github.com/raybox94/PuMpup/blob/master/docs/PMP.md](https://github.com/raybox94/PuMpup/blob/master/docs/PMP.md)
+
+## Work Breakdown Structure (WBS) Page:
+
+[https://github.com/raybox94/PuMpup/blob/master/docs/WBS.md](https://github.com/raybox94/PuMpup/blob/master/docs/WBS.md)
+
+## UI Design:
+
+We have used photoshop for designing UI, below is the link for photoshop design file
+
+[https://github.com/raybox94/PuMpup/tree/master/design](https://github.com/raybox94/PuMpup/tree/master/design)
+
 ## How we will work together as team:
 
 By voting we came to  an conclusion of using slack for all the team meatings. Once a week we meet at library to resolve the issues faced.
