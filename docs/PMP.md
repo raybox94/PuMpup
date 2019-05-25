@@ -68,7 +68,7 @@ Project exclusion are those things that are outside of project boundries.
 
 ##### Cost estimation:
 
-[Cost Estimation](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation(Prakash%2CAnkit).xlsx)
+[Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation(Prakash%2CAnkit).xlsx)
 
 #### Work Breakdown Structure(WBS)
 
