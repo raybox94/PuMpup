@@ -68,7 +68,7 @@ Project exclusion are those things that are outside of project boundries.
 
 ##### Cost estimation:
 
-provide a link for cost estimation
+[Cost Estimation](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation(Prakash%2CAnkit).xlsx)
 
 #### Work Breakdown Structure(WBS)
 
@@ -82,5 +82,6 @@ provide a link for cost estimation
 
 ### Project cost management plan
 
-- 
+The budget for the project is $259,200 the project manager will provide required funds to different department according to the budget.
 
+[Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation(Prakash%2CAnkit).xlsx)
