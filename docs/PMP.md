@@ -110,30 +110,4 @@ Project exclusion are those things that are outside of project boundries.
 
 The budget for the project is $55,980 the project manager will provide required funds to different department according to the budget.
 
-| **WBS Items**                              | **Units/Hrs.** | **Cost/Unit/Hrs.** | **Subtotals** | **WBS Level 2 totals** | **% of totals** | 
-|----------------------------------------|------------|----------------|-----------|--------------------|-------------| 
-|                                        |            |                |           |                    |             | 
-| 1.Sketching                            |            |                |           | $7,910             | 14.13%      | 
-|       1.1 Project Manager              | 25         | $70            | $1,750    |                    |             | 
-|       1.2 Team Lead                    | 56         | $60            | $3,360    |                    |             | 
-|       1.3 UI Designer and UI Developer | 56         | $50            | $2,800    |                    |             | 
-| 2.Sample Data                          |            |                |           | $2,000             | 3.57%       | 
-|       2.1 Developer                    | 40         | $50            | $2,000    |                    |             | 
-| 3.Architecture                         |            |                |           | $12,100            | 21.61%      | 
-|       3.1 Project Manager              | 100        | $70            | $7,000    |                    |             | 
-|       3.2 MVP Tools                    | 1          | $100           | $100      |                    |             | 
-|       3.3 MVP Developer                | 100        | $50            | $5,000    |                    |             | 
-| 4.Development                          |            |                |           | $14,520            | 25.94%      | 
-|       4.1 MS Office licenses           | 2          | $20            | $40       |                    |             | 
-|       4.2 Project Manager              | 50         | $70            | $3,500    |                    |             | 
-|       4.3 Team Lead                    | 100        | $60            | $6,000    |                    |             | 
-|       4.4 Developer                    | 100        | $50            | $5,000    |                    |             | 
-|       4.5 Project management tools     | 1          | $20            | $20       |                    |             | 
-| 5.Testing                              |            |                |           | $19,450            | 34.74%      | 
-|         5.1 Test Manager               | 50         | $70            | $3,500    |                    |             | 
-|         5.2 Test Lead                  | 145        | $60            | $8,700    |                    |             | 
-|         5.3 Project Team members       | 145        | $50            | $7,250    |                    |             | 
-| Total Project Cost Estimates           |            |                |           | $55,980            | 100%        | 
-
-
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
