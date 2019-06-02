@@ -113,7 +113,7 @@ The budget for the project is $55,980 the project manager will provide required 
 
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
 
-### Project Quality Management
+### Project Quality Management Plan
 
 #### Introduction
 This Quality Management Plan defines the acceptable level of quality and describes how the
@@ -162,13 +162,13 @@ The following table identifies:
 #### Quality Tools
 The following are examples of tools that can be used to support quality management implementation.
 
-##### Cost Analysis
+- **Cost Analysis:**
 Compares the cost of the quality process to the expected benefit
-##### Control Chart	
+- **Control Chart:**	
 Used to determine if a process is stable or predictable, within limits
-##### Benchmarking	
+- **Benchmarking:**	
 Compares current project processes to comparable projects 
-##### Statistical Sampling	
+- **Statistical Sampling:**	
 Choosing a representative sample from a population of interest for inspection
 
 ### Project communication management plan
