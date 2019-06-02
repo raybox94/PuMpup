@@ -163,11 +163,11 @@ The following table identifies:
 The following are examples of tools that can be used to support quality management implementation.
 
 ##### Cost Analysis
- 	For Quality Control. Compares the cost of the quality process to the expected benefit
+ For Quality Control. Compares the cost of the quality process to the expected benefit
 ##### Control Chart	
-    For Quality Control. Used to determine if a process is stable or predictable, within limits
+ For Quality Control. Used to determine if a process is stable or predictable, within limits
 ##### Benchmarking	
-    For Quality Control. Compares current project processes to comparable projects 
+ For Quality Control. Compares current project processes to comparable projects 
 
 ##### Statistical Sampling	
-    For Quality Control. Choosing a representative sample from a population of interest for inspection
+ For Quality Control. Choosing a representative sample from a population of interest for inspection
