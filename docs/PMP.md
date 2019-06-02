@@ -137,3 +137,67 @@ The budget for the project is $55,980 the project manager will provide required 
 
 
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
+
+### Project communication management plan
+
+Good communication is critical component of project success. Communication management gives information needed for stakeholder for communication needs. Communication could be emails, phone calls, weekly meetings. The contact details of all stakeholders and their documents are shown in stakeholder communication analysis table.
+
+#### Contents in the project communication management plan
+
+1. Information to be communicated, including format, content, and level of detail
+2. Who will receive the information and who will produce it
+3. Suggested methods or technologies for conveying the information
+4. Frequency of communication
+5. Escalation procedures for resolving issues
+6. Revision procedures for updating the communications management plan
+7. A glossary of common terminology
+8. Stakeholder communications requirements
+
+#### 1. Information to be communicated, including format, content, and level of detail
+
+- The information related to the project will be communicated through email or slack group.
+- The progress of the project will be shared or modified using git.
+
+#### 2. Who will receive the information and who will produce it
+
+- If any requirement is missing it is communicated with project manager then clien to set up the meeting.
+- Information regarding project progress will be sent by team lead or project manager through emails.
+- Status report will be sent to project manager through emails.
+
+#### 3. Suggested methods or technologies for conveying the information
+
+- We can use Gmail, Google Drive and Google Docs to share information regarding project.
+- We can use JIRA for keeping track of project and it progress.
+
+#### 4. Frequency of communication
+
+- There will be regular meetings and face-to-face interactions. If team members are across different countries then communicatio will be done through video call.
+- There will be oral communication via meetings among team members.
+
+#### 5. Escalation procedures for resolving issues
+
+- Every issue which is raised must provide a ticket and solved based on priority.
+- Every issue should be reported to the superiors.
+
+#### 6. Revision procedures for updating the communications management plan
+
+Updated through collaborative tools like google docs, share point and google calender.
+
+#### 7. A glossary of common terminology
+
+- **Stakeholder:** The people who will be affected from the project.
+- **Escalation:** Calling upon higher level to resolve issue.
+- **Project Manager:** The person who overall charge of the planning and execution of project.
+
+#### 8. Stakeholder communications requirements
+
+|Stakeholders|Document Name|Document Format|Contact Person|Due Date|
+|------------|-------------|---------------|--------------|--------|
+|Program Manager	|Project status report |Email |s533987@nwmissouri.edu |Every week|
+|Project Manager |Project status report |Email |raybox94@gmail.com |Every week|
+|Team Lead |Project status report |Email |raybox94@gmail.com |Every week|
+|Team member |Project documents |Email |s534120@nwmissouri.edu |Every week|
+|Team member |Project documents |Email |s533987@nwmissouri.edu|Every week|
+|Team member |Project documents |Email |s534089@nwmissouri.edu |Every week|
+|Test Engineer |Test reports |Reports |s534089@nwmissouri.edu  |End of the each task|
+|Sponsor |Budget analysis |Report |s534120@nwmissouri.edu |One month before the project starts|
