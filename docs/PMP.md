@@ -102,10 +102,10 @@ Project exclusion are those things that are outside of project boundries.
 ### Project schedule management plan
 
 - [Gantt Chart Link](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.mpp)
-- [Gantt Chart Image Link](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.png)
-![](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.png)
 - [JIRA Link](https://raybox94.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PQ&view=planning&selectedIssue=PQ-5&epics=visible)
 - [Sprint Backlog link](https://raybox94.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PQ)
+- [Gantt Chart Image Link](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.png)
+![](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.png)
 
 ### Project cost management plan
 
@@ -113,7 +113,7 @@ The budget for the project is $55,980 the project manager will provide required 
 
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
 
-### Project Quality Management
+### Project Quality Management Plan
 
 #### Introduction
 This Quality Management Plan defines the acceptable level of quality and describes how the project will ensure this level in its deliverables and work processes. Our project cannot be successful if the end products we deliver are not high quality and in line with the requirements and expectations of the clients.
@@ -161,13 +161,13 @@ The following table identifies:
 #### Quality Tools
 The following are examples of tools that can be used to support quality management implementation.
 
-##### Cost Analysis
+- **Cost Analysis:**
 Compares the cost of the quality process to the expected benefit
-##### Control Chart	
+- **Control Chart:**	
 Used to determine if a process is stable or predictable, within limits
-##### Benchmarking	
+- **Benchmarking:**	
 Compares current project processes to comparable projects 
-##### Statistical Sampling	
+- **Statistical Sampling:**	
 Choosing a representative sample from a population of interest for inspection
 
 ### Project resources management plan
@@ -234,8 +234,8 @@ Updated through collaborative tools like google docs, share point and google cal
 |Program Manager	|Project status report |Email |s533987@nwmissouri.edu |Every week|
 |Project Manager |Project status report |Email |raybox94@gmail.com |Every week|
 |Team Lead |Project status report |Email |raybox94@gmail.com |Every week|
-|Team member |Project documents |Email |s534120@nwmissouri.edu |Every week|
-|Team member |Project documents |Email |s533987@nwmissouri.edu|Every week|
-|Team member |Project documents |Email |s534089@nwmissouri.edu |Every week|
+|Team member |Project documents |Email |s534120@nwmissouri.edu |Daily|
+|Team member |Project documents |Email |s533987@nwmissouri.edu|Daily|
+|Team member |Project documents |Email |s534089@nwmissouri.edu |Daily|
 |Test Engineer |Test reports |Reports |s534089@nwmissouri.edu  |End of the each task|
 |Sponsor |Budget analysis |Report |s534120@nwmissouri.edu |One month before the project starts|
