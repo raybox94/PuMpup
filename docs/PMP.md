@@ -260,3 +260,15 @@ The framework phase involves interviews and Delphi techniques, planning the risk
 #### Budget and Schedule:
 
 
+#### Risk categories:
+
+- **External:** Government related, Regulatory, environmental and market-related.
+- **Internal:** Service related, Customer satisfaction related, Cost related and Quality related.
+- **Technical:** Any change in technology related or bugs in code.
+- **Unforeseeable:** Some risk about 9-10% can be unforeseeable risk.
+
+#### Risk Register
+
+
+#### Risk Mitigation
+
