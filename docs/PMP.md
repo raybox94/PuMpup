@@ -111,3 +111,62 @@ Project exclusion are those things that are outside of project boundries.
 The budget for the project is $55,980 the project manager will provide required funds to different department according to the budget.
 
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
+
+### Project Quality Management
+
+#### Introduction
+This Quality Management Plan defines the acceptable level of quality and describes how the
+project will ensure this level in its deliverables and work processes. Our project cannot be successful if the end products we deliver are not high quality and in line with the requirements and expectations of the clients.
+
+#### Metrics for Quality
+The Quality of this project is measured using the defects count, use of Human Resources, performance and the User ratings.
+
+Following are the formula we will be using to calculate various metrics for testing:
+- Passed Test Cases Percentage = (Number of Passed Tests/Total number of tests executed) * 100
+- Failed Test Cases Percentage = (Number of Failed Tests/Total number of tests executed) * 100
+- Fixed Defects Percentage = (Defects Fixed/Total Defects Reported) * 100
+- Critical Defects Percentage = (Critical Defects / Total Defects Reported) * 100
+- Rework Effort Ratio = (Actual rework efforts/ total actual efforts) * 100
+
+
+For all high risk, services are required. For medium risk, services should be considered.
+
+| S No | Defect Level       | Defect Name                                | Measurements|
+|------|--------------------|--------------------------------------------|-------------|
+| 1    | High-Level Defects | Wrong Estimation, Not allocating work to an ideal individual, Planning errors                           | Project estimation should be proficient more suitably and enough time should be given to evaluate the project.|
+| 2    | Mid-level Defects  | Bugs, Integration issues                                      | Bugs are standard in any project so suitable testing and quality affirmation should be actualized.|                                          
+| 3    | Low-level Defects  | Screen Resolution                         | Screen resolution of the PCs won't not be awesome which may not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
+
+#### Quality Control
+Quality control focuses on the project's deliverables. Quality control monitors the results of the project to ensure that the products are good, and the customer satisfied.
+
+The following identifies:
+-	The major deliverables of the project that will be tested for acceptable quality level. 
+-	The quality standards and customer satisfaction criteria established for the project deliverable.           Included are any organizational standards that need to be followed.
+-	The quality control activities that will be executed to monitor the quality of the deliverables.
+-	How often or when the quality control activity will be performed.
+-	The name of the person responsible for carrying out and reporting on the quality control activity.
+
+
+#### Quality Assurance
+Quality assurance focuses on the processes employed in the project. Quality assurance ensures effective use of project processes to produce project results of high quality. It involves observing and meeting standards, improving project work continuously and correcting project failures.
+The following table identifies:
+-	The project processes subject to quality assurance.
+-	The quality standards and stakeholder expectations for that process.
+-	The quality assurance activity – e.g., quality audit or reviews, code review - that will be executed to monitor that project processes are properly followed. 
+-	How often or when the quality assurance activity will be performed.
+-	The name of the person responsible for carrying out and reporting on the quality assurance activity.
+
+
+#### Quality Tools
+The following are examples of tools that can be used to support quality management implementation.
+
+##### Cost Analysis
+ 	For Quality Control. Compares the cost of the quality process to the expected benefit
+##### Control Chart	
+    For Quality Control. Used to determine if a process is stable or predictable, within limits
+##### Benchmarking	
+    For Quality Control. Compares current project processes to comparable projects 
+
+##### Statistical Sampling	
+    For Quality Control. Choosing a representative sample from a population of interest for inspection
