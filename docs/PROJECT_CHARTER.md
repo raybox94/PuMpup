@@ -96,7 +96,7 @@ The following general schedule will be followed:
 
 ### Budget[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#budget)
 
-The budget for the project is $289,600
+The budget for the project is $55,980
 
 ### Risk[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#risk)
 
