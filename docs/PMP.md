@@ -239,3 +239,5 @@ Updated through collaborative tools like google docs, share point and google cal
 |Team member |Project documents |Email |s534089@nwmissouri.edu |Daily|
 |Test Engineer |Test reports |Reports |s534089@nwmissouri.edu  |End of the each task|
 |Sponsor |Budget analysis |Report |s534120@nwmissouri.edu |One month before the project starts|
+
+### Project risk management plan
