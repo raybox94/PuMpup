@@ -116,8 +116,7 @@ The budget for the project is $55,980 the project manager will provide required 
 ### Project Quality Management
 
 #### Introduction
-This Quality Management Plan defines the acceptable level of quality and describes how the
-project will ensure this level in its deliverables and work processes. Our project cannot be successful if the end products we deliver are not high quality and in line with the requirements and expectations of the clients.
+This Quality Management Plan defines the acceptable level of quality and describes how the project will ensure this level in its deliverables and work processes. Our project cannot be successful if the end products we deliver are not high quality and in line with the requirements and expectations of the clients.
 
 #### Metrics for Quality
 The Quality of this project is measured using the defects count, use of Human Resources, performance and the User ratings.
@@ -170,6 +169,12 @@ Used to determine if a process is stable or predictable, within limits
 Compares current project processes to comparable projects 
 ##### Statistical Sampling	
 Choosing a representative sample from a population of interest for inspection
+
+### Project resources management plan
+
+The resource management plan involves creating plans and processes so that the resources are managed properly.
+
+#### Project organizational chart
 
 ### Project communication management plan
 
