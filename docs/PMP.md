@@ -103,6 +103,7 @@ Project exclusion are those things that are outside of project boundries.
 
 - [Gantt Chart Link](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.mpp)
 - [Gantt Chart Image Link](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.png)
+![](https://github.com/raybox94/PuMpup/blob/master/docs/gantt_chart.png)
 - [JIRA Link](https://raybox94.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PQ&view=planning&selectedIssue=PQ-5&epics=visible)
 - [Sprint Backlog link](https://raybox94.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PQ)
 
