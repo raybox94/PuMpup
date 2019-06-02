@@ -176,6 +176,8 @@ The resource management plan involves creating plans and processes so that the r
 
 #### Project organizational chart
 
+![](https://github.com/raybox94/PuMpup/blob/master/docs/ProjectOrganiastionalChart.png)
+
 ### Project communication management plan
 
 Good communication is critical component of project success. Communication management gives information needed for stakeholder for communication needs. Communication could be emails, phone calls, weekly meetings. The contact details of all stakeholders and their documents are shown in stakeholder communication analysis table.
