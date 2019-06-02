@@ -241,3 +241,22 @@ Updated through collaborative tools like google docs, share point and google cal
 |Sponsor |Budget analysis |Report |s534120@nwmissouri.edu |One month before the project starts|
 
 ### Project risk management plan
+
+The main goal of the risk management plan is to reduce the number of risks associated with the project. This management plan will highlight various potential risks and also will control these risks in order to achieve goal. There are various tools and techniques such as SWOT analysis, The Delphi Technique, Interviewing etc. This will be documented by the stakeholders in the form of assessment activities.
+
+#### Methodology
+
+Management of Life-cycle will be the key to mitigate risks in an ongoing process. Life-cycle management involves all the stakeholders such as:
+
+1. IT staff
+2. Development staff
+3. Support personnel
+4. Sponsor
+5. Vendors
+6. Contractors
+
+The framework phase involves interviews and Delphi techniques, planning the risk, analyzing them and mitigating.
+ 
+#### Budget and Schedule:
+
+
