@@ -229,8 +229,8 @@ Updated through collaborative tools like google docs, share point and google cal
 |Program Manager	|Project status report |Email |s533987@nwmissouri.edu |Every week|
 |Project Manager |Project status report |Email |raybox94@gmail.com |Every week|
 |Team Lead |Project status report |Email |raybox94@gmail.com |Every week|
-|Team member |Project documents |Email |s534120@nwmissouri.edu |Every week|
-|Team member |Project documents |Email |s533987@nwmissouri.edu|Every week|
-|Team member |Project documents |Email |s534089@nwmissouri.edu |Every week|
+|Team member |Project documents |Email |s534120@nwmissouri.edu |Daily|
+|Team member |Project documents |Email |s533987@nwmissouri.edu|Daily|
+|Team member |Project documents |Email |s534089@nwmissouri.edu |Daily|
 |Test Engineer |Test reports |Reports |s534089@nwmissouri.edu  |End of the each task|
 |Sponsor |Budget analysis |Report |s534120@nwmissouri.edu |One month before the project starts|
