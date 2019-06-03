@@ -4,6 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href='dragula.css' rel='stylesheet' type='text/css' />
 <link href='example.css' rel='stylesheet' type='text/css' />
+<link rel="shortcut icon" type="image/png" href="images/logo.png"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"/>
 <link rel="stylesheet" href="style.css"/>
@@ -25,8 +26,8 @@
 </div>
 
 <div class="col-md-12" id="nav">
-<div class="col-md-4"><h2>Score:</h2></div>
-<div class="col-md-8"><h2 id="score">0</h2></div>
+<div class="col-md-8"><h2>Previous Score:</h2></div>
+<div class="col-md-4"><h2 id="score">0</h2></div>
 </div>
 
 <div class="col-md-12" id="nav">
@@ -51,15 +52,15 @@
   <center><h5 style="margin:0px 0px 5px 0px;">Drag and arrange in order</h5></center>
     <div class='wrapper'>
       <div id='sortable' class='container'>
-        <div style="color:#fff;font-weight:900px;cursor: move;">Execution</div>
-        <div style="color:#fff;font-weight:900px;cursor: move;">Closing</div>
-        <div style="color:#fff;font-weight:900px;cursor: move;">Monitoring and controlling</div>
-        <div style="color:#fff;font-weight:900px;cursor: move;">Initiating</div>
-        <div style="color:#fff;font-weight:900px;cursor: move;">Planning</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Execution Phase</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Closing Phase</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Monitoring and controlling Phase</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Initiating Phase</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Planning Phase</div>
       </div>
     </div>
   </div>
-  <center><input type="submit" value="Submit" onclick="knowledge_area()" id="submit"</center>
+  <center><input type="submit" value="Submit" onclick="process_group()" id="submit"</center>
   
 </div>
 
