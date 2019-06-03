@@ -157,6 +157,14 @@ The following table identifies:
 -	How often or when the quality assurance activity will be performed.
 -	The name of the person responsible for carrying out and reporting on the quality assurance activity.
 
+#### Roles and responsibilities
+
+| S No | Name       | Role        | Quality Responsibility   |
+|------|------------|-------------|--------------------------|
+|1     |Rayaan Ahmed|Web Developer|Quality Approver|
+|2     |Ankit Prakash|UI Developer|Quality Assurance|
+|3     |Mushafiq Fakki|Team Lead|Quality Auditor|
+|4     |Varun Anugu|Project manager|Quality Monitoring|
 
 #### Quality Tools
 The following are examples of tools that can be used to support quality management implementation.

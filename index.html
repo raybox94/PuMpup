@@ -1,6 +1,9 @@
 <html>
 <head>
 <title>PuMpup Quiz</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='dragula.css' rel='stylesheet' type='text/css' />
+<link href='example.css' rel='stylesheet' type='text/css' />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"/>
 <link rel="stylesheet" href="style.css"/>
@@ -8,19 +11,70 @@
 </head>
 <body>
 <div class="col-md-12" id="header">
-
-
+<div class="col-md-6" id="logo">
+<a href="index.html"><img src="images/logo.png" alt="logo" style="height:100%;"/></a>
+</div>
 </div>
 <!--  end of header -->
 <div class="col-md-12" id="main">
 
+<div class="col-md-4" id="main_left">
+<div class="col-md-12" id="nav" style="margin-bottom:20px;">
+<div class="col-md-4"><img src="images/home.png" style="height:100%"/></div>
+<div class="col-md-8"><h2>Home</h2></div>
+</div>
+
+<div class="col-md-12" id="nav">
+<div class="col-md-4"><h2>Score:</h2></div>
+<div class="col-md-8"><h2 id="score">0</h2></div>
+</div>
+
+<div class="col-md-12" id="nav">
+<center><h2>Quizzes</h2></center>
+</div>
+
+<div class="col-md-12" id="nav">
+<h2 style="cursor: pointer;">10 Knowledge area</h2>
+</div>
+
+<div class="col-md-12" id="nav">
+<h2 style="cursor: pointer;">5 Process Group</h2>
+</div>
+
+
+
+</div>
+<div class="col-md-8" id="main_right">
+<center><h3 style="color:#68c2e8;text-shadow: 2px 2px 4px #fff; margin-bottom:0px;">10 Knowledge area of project management</h3></center>
+
+  <div class='parent'>
+  <center><h5 style="margin:0px 0px 5px 0px;">Drag and arrange in order</h5></center>
+    <div class='wrapper'>
+      <div id='sortable' class='container'>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Risk Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Cost Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Stakeholder Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Quality Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Procurement Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Communications Management</div>
+         <div style="color:#fff;font-weight:900px;cursor: move;">Project Scope Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Resource Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Integration Management</div>
+        <div style="color:#fff;font-weight:900px;cursor: move;">Project Schedule Management</div>
+      </div>
+    </div>
+  </div>
+  <center><input type="submit" value="Submit" onclick="knowledge_area()" id="submit"</center>
+</div>
+
+
+
+
+</div>
 </div>
 <!--  end of main -->
-<div class="col-md-12" id="footer">
-
-
-</div>
-<!-- end of footer -->
+<script src='dragula.js'></script>
+<script src='example.min.js'></script>
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
