@@ -18,6 +18,7 @@ height=100%;
 #main_left{
 height:100%;
 box-shadow: 5px 10px 8px 10px #888888;
+padding-top:10px;
 }
 #main_right{
 height:100%;
@@ -27,6 +28,12 @@ width:80px;
 background:#a13462;
 color:#fff;
 }
+#nav{
+height:60px;
+
+}
+
+
 
 
 @media(max-width:400px){
