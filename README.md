@@ -43,6 +43,10 @@ We have used photoshop for designing UI, below is the link for photoshop design 
 
 [https://github.com/raybox94/PuMpup/tree/master/design](https://github.com/raybox94/PuMpup/tree/master/design)
 
+## GitHub pages Link:
+
+[https://raybox94.github.io/PuMpup/](https://raybox94.github.io/PuMpup/)
+
 ## How we will work together as team:
 
 By voting we came to  an conclusion of using slack for all the team meatings. Once a week we meet at library to resolve the issues faced.
