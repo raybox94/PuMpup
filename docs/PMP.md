@@ -258,9 +258,17 @@ Management of Life-cycle will be the key to mitigate risks in an ongoing process
 6. Contractors
 
 The framework phase involves interviews and Delphi techniques, planning the risk, analyzing them and mitigating.
- 
+
+#### Roles and Responsibility
+
+- Project Manager - Rayaan Ahmed - Approve or disapprove the task
+- Team Lead - Ankit Prakash - Analise Financial and marketing risk
+- Team Member - Mushafiq Fakki - collects and analyze the risk
+- Team Member - Varun Anugu - collects and analyze the risk
 #### Budget and Schedule:
 
+- A proper analysis of deviation in the budget is done regularly using gantt chart and burndown chart so, if there are any irregularities actions will be taken to resolve the issue.
+- Inclusion of Active Risk Management(ARM) helps to solve any ucertainty with the project schedule.
 
 #### Risk categories:
 
@@ -269,8 +277,23 @@ The framework phase involves interviews and Delphi techniques, planning the risk
 - **Technical:** Any change in technology related or bugs in code.
 - **Unforeseeable:** Some risk about 9-10% can be unforeseeable risk.
 
+#### Risk probability and impact
+
+Risks are rated from low to high and these could impact project's scope, time, cost and quality.
+
+#### Revised stakeholder tolerances
+
+All the changes mentioned by the stakeholder will be marked and noted during risk management plan.
+
+#### Reporting formats
+
+We will use issue tracker in github to post issue. We would also use google document to note the issue. A weakly report about issues will be sent to project manager.
+
+#### Tracking
+
+Tracking the documents, auditing of risk management plan and monitoring the issue tracker in github will be done.
+
 #### Risk Register
 
 
 #### Risk Mitigation
-
