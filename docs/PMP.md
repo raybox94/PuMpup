@@ -309,8 +309,6 @@ Tracking the documents, auditing of risk management plan and monitoring the issu
 
 #### Risk Register
 
-## Risk Register
-
 Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Responses | Risk Owner | Probability | Impact | Status | 
 ---|---|---|---|---|---|---|---|---|---|---|---|
 R101| 1 |  Scope Change | Changes are inevitable during the course of the development lifecycle, and there are various reasons why changes occur. Some of these reasons are technical, some are procedural, some are financial, and still some are political or people-related | Process Risk | Improper Scope estimations/Improper deliverable | Product owners dissatisfaction | Risk Mitigation | Project Manager | High | High | Prediction |
