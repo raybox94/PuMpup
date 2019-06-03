@@ -20,7 +20,7 @@ height:100%;
 box-shadow: 5px 10px 8px 10px #888888;
 padding-top:10px;
 }
-#main_right{
+.main_right{
 height:100%;
 }
 #submit{
