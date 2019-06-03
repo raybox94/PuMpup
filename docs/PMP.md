@@ -309,10 +309,19 @@ Tracking the documents, auditing of risk management plan and monitoring the issu
 
 #### Risk Register
 
+## Risk Register
 
-#### Risk Mitigation
+Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Responses | Risk Owner | Probability | Impact | Status | 
+---|---|---|---|---|---|---|---|---|---|---|---|
+R101| 1 |  Scope Change | Changes are inevitable during the course of the development lifecycle, and there are various reasons why changes occur. Some of these reasons are technical, some are procedural, some are financial, and still some are political or people-related | Process Risk | Improper Scope estimations/Improper deliverable | Product owners dissatisfaction | Risk Mitigation | Project Manager | High | High | Prediction |
+R102| 2 | Inexperience Resources | If the manager do not have enough experience to correctly estimate the project budget which could cause cost overrun. | Financial/People | Improper cost estimations | Increased cost/dissatisfaction in salaries | Risk Acceptance | Financial Manager | Medium | High | Prediction |
+R103| 3 | Absence of Management Support | If there is no proper support from top management, the team might show little interest on the project | Structure Risk | Lack of commitment | Lack of the technical knowledge | Risk Avoidance | Project Manager & Team | low | Medium | Avoided|
+R104| 4 | Team member departure | If a team member leaves the job, it would be difficult to manage the  project. Even after appointing a new member knowledge transfer might take time. This impacts the schedule of the project | People Risk | Lack of motivation | dissatisfied team member | Risk Mitigation | Project Manager | Medium | low | Expected | 
+R105| 5 | Natural Disaster | It is impossible to control the weather. So, there is no chances to plan and mitigate the natural disasters. | Financial Risk | Not preparing Disaster Recovery Plans | Lack of preparation | Risk Acceptance | Organization | low | Medium | Anticipated | 
+R106| 6 | Schedule changes | A small change in schedule might affect the entire process because every step in the project is interlinked with something else. For example, there might be task B which can be done after completing task A. If there is a delay in task A the delay continues in task B| Process Risk | wrong estimation of time | unable to finish the scheduled work on time | Risk Mitigation | Project Manager & Team | High | High | Expected |
 
-##	Risk mitigation strategies
+
+#### Risk Mitigation Strategies
 
 Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 ---|---|---|---|
