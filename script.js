@@ -8,6 +8,40 @@ var knowledge_area_arr = ["Project Integration", "Project Scope", "Project Sched
 var process_group_arr = ["Initiating", "Planning", "Execution", "Monitoring and controlling", "Closing"];
 
 
+function load_storage(){
+
+console.log(localStorage.length);
+
+if(localStorage.length == 0){
+localStorage.knowledge_area_score = 0;
+localStorage.process_group_score = 0;
+}else{
+document.getElementById("score").innerHTML = localStorage.knowledge_area_score;
+console.log(document.getElementById("score").innerHTML);
+console.log(localStorage.knowledge_area_score);
+}//end of if-else statement
+
+}//end of function load_storage
+
+
+function load_storage1(){
+
+console.log(localStorage.length);
+
+if(localStorage.length == 0){
+localStorage.knowledge_area_score = 0;
+localStorage.process_group_score = 0;
+}else{
+console.log(document.getElementById("score").innerHTML);
+console.log(localStorage.knowledge_area_score);
+document.getElementById("score").innerHTML = localStorage.process_group_score;
+}//end of if-else statement
+
+}//end of function load_storage
+
+
+
+
 function knowledge_area(){
 var count = 0;
 
@@ -23,7 +57,8 @@ count += 1;
 
 }//end of for loop
 console.log(count);
-document.getElementById("score").innerHTML = count;
+localStorage.knowledge_area_score = count;
+document.getElementById("score").innerHTML = localStorage.knowledge_area_score;
 
 }//end of function knowledge_area
 
@@ -41,7 +76,8 @@ count += 1;
 
 }//end of for loop
 console.log(count);
-document.getElementById("score").innerHTML = count;
+localStorage.process_group_score = count;
+document.getElementById("score").innerHTML = localStorage.process_group_score;
 
 
 }//end of function process_group
