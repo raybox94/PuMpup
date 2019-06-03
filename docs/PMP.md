@@ -303,3 +303,13 @@ Tracking the documents, auditing of risk management plan and monitoring the issu
 
 
 #### Risk Mitigation
+
+##	Risk mitigation strategies
+
+Sno.| Risk | Risk Mitigation Strategy | Responsibility |
+---|---|---|---|
+1 | Market Risk | Constantly analysing the changing market scenarios and customer expectations. Adopting any major change in the market trends.| Project Manager |
+2 | Financial Risk | Keeping the budget in check by avoiding unwanted and extravagant change requests. Using various project management tools to monitor the cost of the project. Giving enough authority to Project Manager to take urgent decisions. | Project Manager|
+3 | Technology Risk | Maintaining the coding convention and following the standard techniques.  | Project Manager & team |
+4 | People Risk | Reducing the turnover rate by paying adequate salary as per the market standards. Providing training to the staff for their self development and satisfaction | Project Manager |
+5 | Process Risk | Constantly contolling and monitoring the project cost and schedule estimation of the project  | Project Manger |
