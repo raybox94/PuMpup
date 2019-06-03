@@ -276,7 +276,7 @@ The framework phase involves interviews and Delphi techniques, planning the risk
 #### Roles and Responsibility
 
 - Project Manager - Rayaan Ahmed - Approve or disapprove the task
-- Team Lead - Ankit Prakash - Analise Financial and marketing risk
+- Team Lead - Ankit Prakash - Analyse Financial and marketing risk
 - Team Member - Mushafiq Fakki - collects and analyze the risk
 - Team Member - Varun Anugu - collects and analyze the risk
 #### Budget and Schedule:
