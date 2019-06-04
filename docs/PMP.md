@@ -68,7 +68,7 @@ Project exclusion are those things that are outside of project boundries.
 
 ##### Cost estimation:
 
-| **WBS Items**                              | **Units/Hrs.** | **Cost/Unit/Hrs.** | **Subtotals** | **WBS Level 2 totals** | **% of totals** | 
+| **WBS Items**                              | **Hrs.** | **Cost/Hrs.** | **Subtotals** | **WBS Level 2 totals** | **% of totals** | 
 |----------------------------------------|------------|----------------|-----------|--------------------|-------------| 
 |                                        |            |                |           |                    |             | 
 | 1.Sketching                            |            |                |           | $7,910             | 14.13%      | 
