@@ -328,3 +328,15 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 3 | Technology Risk | Maintaining the coding convention and following the standard techniques.  | Project Manager & team |
 4 | People Risk | Reducing the turnover rate by paying adequate salary as per the market standards. Providing training to the staff for their self development and satisfaction | Project Manager |
 5 | Process Risk | Constantly contolling and monitoring the project cost and schedule estimation of the project  | Project Manger |
+
+
+### Project procurement management plan
+
+
+
+
+
+
+### Project stakeholder management plan
+
+
