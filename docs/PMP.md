@@ -71,27 +71,27 @@ Project exclusion is those things that are outside of project boundaries.
 | **WBS Items**                              | **Hrs.** | **Cost/Hrs.** | **Subtotals** | **WBS Level 2 totals** | **% of totals** | 
 |----------------------------------------|------------|----------------|-----------|--------------------|-------------| 
 |                                        |            |                |           |                    |             | 
-| 1.Sketching                            |            |                |           | $7,910             | 14.13%      | 
-|       1.1 Project Manager              | 25         | $70            | $1,750    |                    |             | 
-|       1.2 Team Lead                    | 56         | $60            | $3,360    |                    |             | 
-|       1.3 UI Designer and UI Developer | 56         | $50            | $2,800    |                    |             | 
-| 2.Sample Data                          |            |                |           | $2,000             | 3.57%       | 
-|       2.1 Developer                    | 40         | $50            | $2,000    |                    |             | 
-| 3.Architecture                         |            |                |           | $12,100            | 21.61%      | 
-|       3.1 Project Manager              | 100        | $70            | $7,000    |                    |             | 
+| 1.Sketching                            |            |                |           | $3,800             | 14.13%      | 
+|       1.1 Project Manager              | 25         | $40            | $1,000    |                    |             | 
+|       1.2 Team Lead                    | 56         | $30            | $1,680    |                    |             | 
+|       1.3 UI Designer and UI Developer | 56         | $20            | $1,120    |                    |             | 
+| 2.Sample Data                          |            |                |           | $1,200             | 3.57%       | 
+|       2.1 Developer                    | 40         | $30            | $1,200    |                    |             | 
+| 3.Architecture                         |            |                |           | $6,100            | 21.61%      | 
+|       3.1 Project Manager              | 100        | $40            | $4,000    |                    |             | 
 |       3.2 MVP Tools                    | 1          | $100           | $100      |                    |             | 
-|       3.3 MVP Developer                | 100        | $50            | $5,000    |                    |             | 
-| 4.Development                          |            |                |           | $14,520            | 25.94%      | 
+|       3.3 MVP Developer                | 100        | $20            | $2,000    |                    |             | 
+| 4.Development                          |            |                |           | $7,010            | 25.94%      | 
 |       4.1 MS Office licenses           | 2          | $20            | $40       |                    |             | 
-|       4.2 Project Manager              | 50         | $70            | $3,500    |                    |             | 
-|       4.3 Team Lead                    | 100        | $60            | $6,000    |                    |             | 
-|       4.4 Developer                    | 100        | $50            | $5,000    |                    |             | 
-|       4.5 Project management tools     | 1          | $20            | $20       |                    |             | 
-| 5.Testing                              |            |                |           | $19,450            | 34.74%      | 
-|         5.1 Test Manager               | 50         | $70            | $3,500    |                    |             | 
-|         5.2 Test Lead                  | 145        | $60            | $8,700    |                    |             | 
-|         5.3 Project Team members       | 145        | $50            | $7,250    |                    |             | 
-| Total Project Cost Estimates           |            |                |           | $55,980            | 100%        | 
+|       4.2 Project Manager              | 50         | $40            | $2,000    |                    |             | 
+|       4.3 Team Lead                    | 100        | $30            | $3,000    |                    |             | 
+|       4.4 Developer                    | 100        | $20            | $2,000    |                    |             | 
+|       4.5 Project management tools     | 1          | $10            | $10       |                    |             | 
+| 5.Testing                              |            |                |           | $9,250            | 34.74%      | 
+|         5.1 Test Manager               | 50         | $40            | $2,000    |                    |             | 
+|         5.2 Test Lead                  | 145        | $30            | $4,350    |                    |             | 
+|         5.3 Project Team members       | 145        | $20            | $2,900    |                    |             | 
+| Total Project Cost Estimates           |            |                |           | $27,360            | 100%        | 
 
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
 
