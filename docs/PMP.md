@@ -332,7 +332,11 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 
 ### Project procurement management plan
 
+#### Statement of Work
 
+
+
+#### Request for proposal
 
 
 
