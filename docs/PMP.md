@@ -334,7 +334,33 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 
 #### Statement of Work
 
+##### 1. Scope of work
 
+Our primary goal is to create a quiz application for project management course. Till now we have created a small widget which uses drag and drop feature for arranging 10 knowledge areas and 5 process group in order. Technology includes HTML, CSS, JavaScript, Dragula and Php for backend. This application allow user to take quiz nad learn about Project Management Plan and Processes.  
+
+##### 2. Location of work
+
+The work must be performed in the office where all the equipment required for hardware and software are available.
+
+##### 3. Period of performance
+
+The work is expected to start by May 22nd and to be finished on June 13, number of working hours in a day will be 8.
+
+##### 4. Deliverable schedule
+
+Testing will be performed along with the development of the application to check at each stage if there is an issue.
+
+##### 5. Applicable standards
+
+Project will follow all the technical standard for coding and IEEE standard for documentation. All the equipment will meet minimum requirement for smooth run of application.
+
+##### 6. Acceptance criteria
+
+The buyer will check whether all the requirements given by him / her are completed or not. Overall the quality of the project is checked by the buyer.
+
+##### 7. Special requirements
+
+Every employee in the office should have a minimum qualification of Graduation and should be fluent in English language. Must also have previous project experience and should be a good team player.
 
 #### Request for proposal
 
