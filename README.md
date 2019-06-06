@@ -49,7 +49,7 @@ We have used photoshop for designing UI, below is the link for photoshop design 
 
 ## Link for Unit Test page:
 
-![](https://raybox94.github.io/PuMpup/test/test.html)
+[https://raybox94.github.io/PuMpup/test/test.html](https://raybox94.github.io/PuMpup/test/test.html)
 
 We have used QUnit test to perform unit test on JavaScript function.
 
