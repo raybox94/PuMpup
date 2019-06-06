@@ -83,6 +83,11 @@ document.getElementById("score").innerHTML = localStorage.process_group_score;
 }//end of function process_group
 
 function strip_string_knowledge(string){
+
+    if (typeof string !== 'string') {
+		throw Error('The given argument is not a string');
+	}
+
 var striped_data = string.replace(/(<([^>]+)>)/ig,"");
 var unclean_array = striped_data.split("Management");
 var clean_array = []
@@ -95,6 +100,11 @@ return clean_array;
 }//end of function strip for knowledge_groups
 
 function strip_string_process(string){
+
+    if (typeof string !== 'string') {
+		throw Error('The given argument is not a string');
+	}
+
 var striped_data = string.replace(/(<([^>]+)>)/ig,"");
 var unclean_array = striped_data.split("Phase");
 var clean_array = []
