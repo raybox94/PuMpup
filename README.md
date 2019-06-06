@@ -47,6 +47,12 @@ We have used photoshop for designing UI, below is the link for photoshop design 
 
 [https://raybox94.github.io/PuMpup/](https://raybox94.github.io/PuMpup/)
 
+## Link for Unit Test page:
+
+![](https://raybox94.github.io/PuMpup/test/test.html)
+
+We have used QUnit test to perform unit test on JavaScript function.
+
 ## How we will work together as team:
 
 By voting we came to  an conclusion of using slack for all the team meatings. Once a week we meet at library to resolve the issues faced.
