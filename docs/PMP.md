@@ -2,7 +2,7 @@
 
 ### Description
 
-The purpose is to create a web application using Php as backend which helps people to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge are and process group.
+The purpose is to create a web application using Php as backend which helps people to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge areas and process group.
 
 Below are the various knowledge area plans integrated with the project:
 
