@@ -352,4 +352,12 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 
 #### Stakeholder analysis
 
+| Name             | Level of Interest | Level of Influence | Potential Management Strategies                                                                                                                                                                                                                                   | 
+|------------------|-------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Rayaan Ahmed     | High              | Leading            | Has Good Management Skills, Leadership quality. Managed the project communicate with client and acts as a catalyst & bridge within team and Client. Analyzing each task and its implementation.                                                                    | 
+| Ankit Prakash    | High              | Supportive         | He has good commanding skills and good at programming. He can monitor the project status                                                                                                                                                                          | 
+| Mushafiq Fakki   | High              | Supportive         | Has the ability to be in collaboration with the core business units and the Information Services Department to translate user requirements, develop and coordinate user testing, and assist in training and implementation of new systems or system enhancements. | 
+| Anugu Varun      | High              | Testing            | Has good analytical skills to think out of the box and try to test to product from customer point of view.                                                                                                                                                        | 
 #### Issue log
+
+
