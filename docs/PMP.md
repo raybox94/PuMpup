@@ -339,4 +339,14 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 
 ### Project stakeholder management plan
 
+#### Stakeholder register
+
+| Name of the Stakeholder 	| Role in the project 	| Department               	| Type of Stakeholder 	| Expectations                                     	| Contact Info           	|
+|-------------------------	|---------------------	|--------------------------	|---------------------	|--------------------------------------------------	|------------------------	|
+| Dr.Denise Case          	| Mentor              	| Applied Computer Science 	| External            	| Provide review comments and suggest improvements 	| dcase@nwmissouri.edu   	|
+| Rayaan Ahmed            	| Developer           	| Applied Computer Science 	| Internal            	| Develop ,test and validate code                  	| s534118@nwmissouri.edu 	|
+| Ankit Prakash           	| Developer           	| Applied Computer Science 	| Internal            	| Develop,test and validate code                   	| s533987@nwmissouri.edu 	|
+| Sai Varun Reddy Anugu   	| Developer           	| Applied Computer Science 	| Internal            	| Develop,test and validate code                   	| s34089@nwmissouri.edu  	|
+| Mushafiq Fakki          	| Developer           	| Applied Computer Science 	| Internal            	| Develop,test and validate code                   	| s534120@nwmissouri.edu 	|
+
 
