@@ -362,8 +362,9 @@ Request for Proposal(RFP)
         iv.	Technical Experience.
 
     c.	Model Contract:
-    
-        The project should be completed within the said deadline. If all the requirements are met, we shall discuss and move forwards for other requirements later
+
+        The project should be completed within the said deadline. 
+        If all the requirements are met,we shall discuss and move forwards for other requirements later
 
 
 
