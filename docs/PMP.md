@@ -349,6 +349,13 @@ The work is expected to start by May 22nd and to be finished on June 13, number 
 ##### 4. Deliverable schedule
 
 Testing will be performed along with the development of the application to check at each stage if there is an issue.
+Deliverable| Due Date|
+|----|----|
+|Project charter|5/24/2019
+|Project management plan|5/24/2019
+|Schedule management plan|5/24/2019
+|Scope management plan|5/24/2019
+|Final product|06/06/2019
 
 ##### 5. Applicable standards
 
