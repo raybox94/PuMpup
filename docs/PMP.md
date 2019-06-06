@@ -338,6 +338,32 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 
 #### Request for proposal
 
+Request for Proposal(RFP)
+
+-	Purpose of RFP: To create web application which helps people to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge and process group.
+
+-	Software Environment:
+
+	    1. Visual Code 1.34
+	    2. PHP 7.0
+	    3. Use of MySQL as the main database.
+
+-	Possible Appendices:
+
+    a.	System Requirements:
+
+        Any mobile device and laptop with Web Broswer
+
+    b.	Required Contents of Vendor’s Response to RFP:
+
+        i.	Cost
+        ii.	Time
+        ii.	Quality
+        iv.	Technical Experience.
+
+    c.	Model Contract:
+    
+        The project should be completed within the said deadline. If all the requirements are met, we shall discuss and move forwards for other requirements later
 
 
 
@@ -371,3 +397,4 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 | 2     | Cost estimation may increase         | Budget will exceed the estimation        | June 12th     | Ankit Prakash | Varun Sai Reddy | H               | June 20th | Closed | After proper estimation and meetings with stakeholders the cost estimation issues have been fixed | 
 | 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     |
 | 4     | Serialization issue while testing | Unit testing may get delayed | june 5th     | Ankit Prakash | Rayaan Ahmed    | H               | june 5th  | closed   | changed normal equals to deep equals in the conditional statement    | 
+
