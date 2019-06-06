@@ -109,7 +109,7 @@ Project exclusion is those things that are outside of project boundaries.
 
 ### Project cost management plan
 
-The budget for the project is $55,980 the project manager will provide required funds to the different department according to the budget.
+The budget for the project is $27,360 the project manager will provide required funds to the different department according to the budget.
 
 [Cost Estimation Link](https://github.com/raybox94/PuMpup/blob/master/docs/CostEstimation.xlsx)
 
