@@ -364,6 +364,34 @@ Every employee in the office should have a minimum qualification of Graduation a
 
 #### Request for proposal
 
+-	Purpose of RFP: To create web application which helps people to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge and process group.
+
+-	Software Environment:
+
+	    1. Visual Code 1.34
+	    2. PHP 7.0
+	    3. Use of MySQL as the main database.
+
+-	Possible Appendices:
+
+    1.	System Requirements:
+
+        Any mobile device and laptop with Web Broswer
+
+    2.	Required Contents of Vendor’s Response to RFP:
+
+        a.	Cost
+
+        b.	Time
+
+        c.	Quality
+
+        b.	Technical Experience.
+
+    3.	Model Contract:
+
+        The project should be completed within the said deadline. 
+        If all the requirements are met, we shall discuss and move forwards for other requirements later
 
 
 
@@ -390,9 +418,11 @@ Every employee in the office should have a minimum qualification of Graduation a
 | Anugu Varun      | High              | Testing            | Has good analytical skills to think out of the box and try to test to product from customer point of view.                                                                                                                                                        | 
 #### Issue log
 
-|       |                                      |                                          |               |               |                 |                 |           |        |                                                                                                   | 
-|-------|--------------------------------------|------------------------------------------|---------------|---------------|-----------------|-----------------|-----------|--------|---------------------------------------------------------------------------------------------------| 
-| Sl no | Issue Description                    | Impact on Project                        | Date Reported | Reported By   | Assigned To     | Priority(M/H/L) | Due Date  | Status | Comments                                                                                          | 
+
+| Sl no | Issue Description                    | Impact on Project                        | Date Reported | Reported By   | Assigned To     | Priority(M/H/L) | Due Date  | Status | Comments
+|-------|--------------------------------------|------------------------------------------|---------------|---------------|-----------------|-----------------|-----------|--------|---------------------------------------------------------------------------------------------------|
 | 1     | Requires a list of suppliers         | Process evaluation will be delayed       | May 30th      | Ankit Prakash | Mushafiq Fakki  | M               | July 30th | open   | "Pending, Few issues has to be sorted"                                                            | 
 | 2     | Cost estimation may increase         | Budget will exceed the estimation        | June 12th     | Ankit Prakash | Varun Sai Reddy | H               | June 20th | Closed | After proper estimation and meetings with stakeholders the cost estimation issues have been fixed | 
-| 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     | 
+| 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     |
+| 4     | Serialization issue while testing | Unit testing may get delayed | june 5th     | Ankit Prakash | Rayaan Ahmed    | H               | june 5th  | closed   | changed normal equals to deep equals in the conditional statement    | 
+
