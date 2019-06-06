@@ -356,10 +356,13 @@ Request for Proposal(RFP)
 
     2.	Required Contents of Vendor’s Response to RFP:
 
-        i.	Cost
-        ii.	Time
-        ii.	Quality
-        iv.	Technical Experience.
+        a.	Cost
+
+        b.	Time
+
+        c.	Quality
+        
+        b.	Technical Experience.
 
     3.	Model Contract:
 
