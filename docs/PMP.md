@@ -350,18 +350,18 @@ Request for Proposal(RFP)
 
 -	Possible Appendices:
 
-    a.	System Requirements:
+    1.	System Requirements:
 
         Any mobile device and laptop with Web Broswer
 
-    b.	Required Contents of Vendor’s Response to RFP:
+    2.	Required Contents of Vendor’s Response to RFP:
 
         i.	Cost
         ii.	Time
         ii.	Quality
         iv.	Technical Experience.
 
-    c.	Model Contract:
+    3.	Model Contract:
 
         The project should be completed within the said deadline. 
         If all the requirements are met, we shall discuss and move forwards for other requirements later
