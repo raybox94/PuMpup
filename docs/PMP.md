@@ -364,7 +364,7 @@ Request for Proposal(RFP)
     c.	Model Contract:
 
         The project should be completed within the said deadline. 
-        If all the requirements are met,we shall discuss and move forwards for other requirements later
+        If all the requirements are met, we shall discuss and move forwards for other requirements later
 
 
 
