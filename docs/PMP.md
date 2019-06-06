@@ -338,8 +338,6 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 
 #### Request for proposal
 
-Request for Proposal(RFP)
-
 -	Purpose of RFP: To create web application which helps people to understand 10 knowledge areas and 5 process groups in project management and provide quiz for knowledge and process group.
 
 -	Software Environment:
@@ -361,7 +359,7 @@ Request for Proposal(RFP)
         b.	Time
 
         c.	Quality
-        
+
         b.	Technical Experience.
 
     3.	Model Contract:
