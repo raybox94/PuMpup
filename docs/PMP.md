@@ -364,4 +364,9 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 | Anugu Varun      | High              | Testing            | Has good analytical skills to think out of the box and try to test to product from customer point of view.                                                                                                                                                        | 
 #### Issue log
 
-
+|       |                                      |                                          |               |               |                 |                 |           |        |                                                                                                   | 
+|-------|--------------------------------------|------------------------------------------|---------------|---------------|-----------------|-----------------|-----------|--------|---------------------------------------------------------------------------------------------------| 
+| Sl no | Issue Description                    | Impact on Project                        | Date Reported | Reported By   | Assigned To     | Priority(M/H/L) | Due Date  | Status | Comments                                                                                          | 
+| 1     | Requires a list of suppliers         | Process evaluation will be delayed       | May 30th      | Ankit Prakash | Mushafiq Fakki  | M               | July 30th | open   | "Pending, Few issues has to be sorted"                                                            | 
+| 2     | Cost estimation may increase         | Budget will exceed the estimation        | June 12th     | Ankit Prakash | Varun Sai Reddy | H               | June 20th | Closed | After proper estimation and meetings with stakeholders the cost estimation issues have been fixed | 
+| 3     | Probability of project getting delay | Go-live of the project date will be late | July 21st     | Ankit Prakash | Rayaan Ahmed    | H               | Aug 01st  | open   | Few adjustments need to be done in the tasks and hire technical resources to finish the tasks     | 
