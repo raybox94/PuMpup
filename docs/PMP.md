@@ -350,3 +350,6 @@ Sno.| Risk | Risk Mitigation Strategy | Responsibility |
 | Mushafiq Fakki          	| Developer           	| Applied Computer Science 	| Internal            	| Develop,test and validate code                   	| s534120@nwmissouri.edu 	|
 
 
+#### Stakeholder analysis
+
+
