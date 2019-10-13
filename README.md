@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-The purpose is to create Quizz Application usinng Php as backend which helps people to understand more about Project Management and its Process.
+The purpose is to create Quizz Application using DragulaJS which helps people to understand more about Project Management and its Process.
 
 ## Project Repository:
 
